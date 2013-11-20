@@ -87,7 +87,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GoodnessOfFit\RSquared.cs" />
     <Compile Include="GoodnessOfFit.cs" />
     <Compile Include="Precision.Comparison.cs" />
     <Compile Include="Precision.Equality.cs" />
